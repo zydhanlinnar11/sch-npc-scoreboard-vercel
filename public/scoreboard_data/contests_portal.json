@@ -1,0 +1,12 @@
+[
+    {
+        "active" : true,
+        "text" : "Portal Junior",
+        "url" : "https://junior.schematics-npc.com"
+    },
+    {
+        "active" : true,
+        "text" : "Portal Senior",
+        "url" : "https://senior.schematics-npc.com"
+    }
+]

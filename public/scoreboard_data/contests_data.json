@@ -1,0 +1,68 @@
+[
+	{
+	  "active": false,
+	  "id": "bapacc-cup",
+	  "name": "Bapacc-Cup",
+	  "scoreboard_domjudge_api": "https://scoreboard-api.schematics-npc.com/senior/bapacc-cup/scoreboard",
+	  "scoreboard_domjudge_api_teams": "https://scoreboard-api.schematics-npc.com/senior/bapacc-cup/teams",
+	  "scoreboard_domjudge_api_organizations": "https://scoreboard-api.schematics-npc.com/senior/bapacc-cup/organizations"
+	},
+	{
+    "active": true,
+    "id": "tutorial1",
+    "name": "Tutorial 1",
+    "scoreboard_dmoj_api": "/scoreboard_data/junior/tutorial1.json",
+    "scoreboard_dmoj_api_users": "/scoreboard_data/junior/users.json"
+  },
+  {
+    "active": true,
+    "id": "tutorial2",
+    "name": "Tutorial 2",
+    "scoreboard_dmoj_api": "/scoreboard_data/junior/tutorial2.json",
+    "scoreboard_dmoj_api_users": "/scoreboard_data/junior/users.json"
+  },
+  {
+    "active": true,
+    "id": "tutorial3",
+    "name": "Tutorial 3",
+    "scoreboard_dmoj_api": "/scoreboard_data/junior/tutorial3.json",
+    "scoreboard_dmoj_api_users": "/scoreboard_data/junior/users.json"
+  },
+  {
+    "active": true,
+    "id": "tutorial4",
+    "name": "Tutorial 4",
+    "scoreboard_dmoj_api": "/scoreboard_data/junior/tutorial4.json",
+    "scoreboard_dmoj_api_users": "/scoreboard_data/junior/users.json"
+  },
+	{
+	  "active": true,
+	  "id": "warmup",
+	  "name": "Babak Pemanasan",
+	  "scoreboard_dmoj_api": "/scoreboard_data/junior/warmup.json",
+	  "scoreboard_dmoj_api_users": "/scoreboard_data/junior/users.json",
+	  "scoreboard_domjudge_api": "/scoreboard_data/senior/warmup.json",
+	  "scoreboard_domjudge_api_teams": "/scoreboard_data/senior/teams.json",
+	  "scoreboard_domjudge_api_organizations": "/scoreboard_data/senior/organizations.json"
+	},
+	{
+	  "active": true,
+	  "id": "penyisihan",
+	  "name": "Babak Penyisihan",
+	  "scoreboard_dmoj_api": "/scoreboard_data/junior/penyisihan.json",
+	  "scoreboard_dmoj_api_users": "/scoreboard_data/junior/users.json",
+	  "scoreboard_domjudge_api": "/scoreboard_data/senior/penyisihan.json",
+	  "scoreboard_domjudge_api_teams": "/scoreboard_data/senior/teams.json",
+	  "scoreboard_domjudge_api_organizations": "/scoreboard_data/senior/organizations.json"
+	},
+	{
+	  "active": true,
+	  "id": "final",
+	  "name": "Babak Final",
+	  "scoreboard_dmoj_api": "https://scoreboard-api.schematics-npc.com/junior/final/scoreboard",
+	  "scoreboard_dmoj_api_users": "https://scoreboard-api.schematics-npc.com/junior/final/users",
+	  "scoreboard_domjudge_api": "https://scoreboard-api.schematics-npc.com/senior/final/scoreboard",
+	  "scoreboard_domjudge_api_teams": "https://scoreboard-api.schematics-npc.com/senior/final/teams",
+	  "scoreboard_domjudge_api_organizations": "https://scoreboard-api.schematics-npc.com/senior/final/organizations"
+	}
+  ]

@@ -1,0 +1,63 @@
+{
+    "event_title" : "Schematics NPC 2021",
+    "event_display_name" : "Schematics NPC 2021",
+    
+    "homepage_logo_url" : "https://schematics.its.ac.id/favicon/apple-icon-180x180.png",
+    "homepage_back_text" : "< Kembali",
+    "homepage_fallback_contest_text" : "Contest tidak ada atau belum dimulai!",
+    
+    "active": true,
+    "debug_mode" : false,
+    "snow_active" : false,
+    "custom_backend_api" : true,
+
+    "scoreboard_logo_url" : "https://schematics.its.ac.id/image/white-logo.svg",
+    "scoreboard_title_text" : "Schematics NPC",
+    "scoreboard_fallback_image" : "/null.png",
+    "scoreboard_contest_over_text" : "- Contest Over -",
+    "scoreboard_contest_freeze_text" : "- FREEZE TIME -",
+    "scoreboard_contest_time_format" : "Contest {contest} berakhir pada {day}, {date} {month} {year} pukul {hour}:{minute}:{second} WIB",
+
+    "judge" : {
+        "dmoj" : {
+            "base_url" : "https://junior.schematics-npc.com",
+            "contest_type" : "Junior",
+            "scoreboard_images_url" : "https://raw.githubusercontent.com/zydhanlinnar11/schematics-npc-online-judge/main/logo-junior",
+            "scoreboard_images_ext" : ".webp"
+        },
+        "domjudge" : {
+            "base_url" : "https://senior.schematics-npc.com",
+            "contest_type" : "Senior",
+            "scoreboard_images_url" : "https://senior.schematics-npc.com/images/affiliations",
+            "scoreboard_images_ext" : ".png"
+        }
+    },
+
+    "sponsor" : {
+        "active" : true,
+        "sponsor_text" : "Sponsor and Media Partner",
+        "sponsor_banner_image_url" : "/scoreboard_data/sponsors/sponsor-banner.png",
+        "sponsors" : [
+            {
+                "image_url" : "/scoreboard_data/sponsors/pcs-sponsorship.png",
+                "image_alt" : "PCS Sponsor",
+                "height" : "60px"
+            },
+            {
+                "image_url" : "/scoreboard_data/sponsors/rumahweb-sponsorship.png",
+                "image_alt" : "rumahweb Sponsor",
+                "height" : "50px"
+            },
+            {
+                "image_url" : "/scoreboard_data/sponsors/petrokimia-sponsorship.png",
+                "image_alt" : "Petrokimia Gresik Sponsor",
+                "height" : "60px"
+            },
+            {
+                "image_url" : "/scoreboard_data/sponsors/dewaweb-sponsorship.png",
+                "image_alt" : "dewaweb Sponsor",
+                "height" : "80px"
+            }
+        ]
+    }
+}
